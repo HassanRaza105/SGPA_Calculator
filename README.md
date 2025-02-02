@@ -36,6 +36,10 @@ g++ main.cpp -o GPA_Calculator
 
 
 ---
+## 📷 Demo (Example Output)  
+![GPA Calculator Demo](demo.jpg)
+
+---
 
 🚀 Contributing
 
