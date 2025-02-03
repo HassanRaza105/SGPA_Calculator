@@ -40,7 +40,8 @@ g++ main.cpp -o GPA_Calculator
 ![GPA Calculator Demo](demo.jpg)
 
 ---
-
+## Grading Policy 
+![GPA Calculator Grading Policy](gradingPolicy.jpg)
 🚀 Contributing
 
 Feel free to fork this repository and improve the project! If you find any issues, open a pull request or an issue.
